@@ -1,11 +1,8 @@
-PATH
-  remote: example
-  specs:
-    example (0.1.0)
-
 GEM
   remote: https://rubygems.org/
+  remote: http://localhost:8808/
   specs:
+    example (0.1.0)
 
 PLATFORMS
   ruby

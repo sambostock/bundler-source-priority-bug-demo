@@ -1,3 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'example', path: 'example'
+source 'http://localhost:8808' do
+  gem 'example'
+end
