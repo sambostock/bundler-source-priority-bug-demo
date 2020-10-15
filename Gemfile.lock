@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   remote: http://localhost:8808/
   specs:
-    example (0.1.0)
+    example (1.0.2)
 
 PLATFORMS
   ruby
